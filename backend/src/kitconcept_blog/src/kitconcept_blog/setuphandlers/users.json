@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "info@kitconcept.com",
+      "properties": {
+        "fullname": "kitconcept.blog",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "kitconcept-blog"
+    }
+  ],
+    "team": [
+  ]
+}

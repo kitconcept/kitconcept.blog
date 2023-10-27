@@ -1,0 +1,7 @@
+---
+project_folders:
+  # Path to store kitconcept-blog.example.com postgres data
+  - path: "/srv/kitconcept-blog/data"
+    owner: 999
+    group: 999
+    mode: "0750"
