@@ -35,7 +35,7 @@
             purge="true"
   >
     <element value="volto.blocks" />
-    <element value="volto.preview_image"/>
+    <element value="volto.preview_image" />
     <element value="plone.namefromtitle" />
     <element value="plone.allowdiscussion" />
     <element value="plone.excludefromnavigation" />

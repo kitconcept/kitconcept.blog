@@ -11,7 +11,7 @@
       <bound-workflow workflow_id="blog_post_workflow" />
     </default> -->
     <type type_id="Blog post">
-      <bound-workflow workflow_id="blog_post_workflow"/>
+      <bound-workflow workflow_id="blog_post_workflow" />
     </type>
   </bindings>
 </object>

@@ -10,7 +10,9 @@
   <!-- Metadata
   <column value="industry" />
 -->
-  <index meta_type="FieldIndex" name="Blog post">
-    <indexed_attr value="Blog post"/>
+  <index meta_type="FieldIndex"
+         name="Blog post"
+  >
+    <indexed_attr value="Blog post" />
   </index>
 </object>

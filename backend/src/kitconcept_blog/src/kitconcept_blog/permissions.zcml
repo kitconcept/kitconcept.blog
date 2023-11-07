@@ -7,10 +7,10 @@
   <configure zcml:condition="installed AccessControl.security">
     <!-- -*- extra stuff goes here -*- -->
 
-    <permission 
-      id="kitconcept_blog.blog_post.add" 
-      title="kitconcept_blog: Add Blog post"
-    />
+    <permission
+        id="kitconcept_blog.blog_post.add"
+        title="kitconcept_blog: Add Blog post"
+        />
 
   </configure>
 
